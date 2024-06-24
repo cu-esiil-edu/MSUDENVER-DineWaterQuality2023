@@ -22,4 +22,4 @@ navigation_header:
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
   
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
