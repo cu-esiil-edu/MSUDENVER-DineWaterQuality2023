@@ -1,1 +1,9 @@
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Diné Water Quality" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "ESIIL Stars Project by students of Metropolitan State University of Denver, 2023"
+
+
 remote_theme: daviddarnes/alembic
