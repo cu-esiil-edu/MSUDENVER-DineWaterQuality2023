@@ -5,5 +5,19 @@ title: "Diné Water Quality" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "ESIIL Stars Project by students of Metropolitan State University of Denver, 2023"
 
-
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
+  
 remote_theme: daviddarnes/alembic
