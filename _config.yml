@@ -2,6 +2,7 @@
 layout: default
 title: UI Components
 nav_order: 8
+remote_theme: just-the-docs/just-the-docs
 ---
 
  navigation:
@@ -24,4 +25,4 @@ aux_links_new_tab: false
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/AnimasPolluted.jpg"
 
-remote_theme: just-the-docs/just-the-docs
+
