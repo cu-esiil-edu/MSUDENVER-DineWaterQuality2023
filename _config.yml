@@ -4,6 +4,15 @@ title: UI Components
 nav_order: 8
 ---
 
+ navigation:
+    - title: Home
+      url: /index.html
+    - title: About
+      url: /about
+    - title: Background
+      url: 
+
+
 # Aux links for the upper right navigation
 aux_links:
   "About":
