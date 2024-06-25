@@ -8,3 +8,5 @@ nav_order: 2
 Maps
 
 Cool stuff
+
+<img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/AnimasPolluted.jpg?raw=true" height="400px" />
