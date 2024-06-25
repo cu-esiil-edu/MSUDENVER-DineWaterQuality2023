@@ -1,11 +1,3 @@
----
-layout: default
-title: Introduction
-nav_order: 1
----
+# Welcome to the Metropolitan State University of Denver's ESIIL Stars 2023 Project Page!
 
-## Metropolitan State University of Denver
-
-# Dine Water Quality
-
-# Research Question
+Use the navigation bars on the left to explore our project!
