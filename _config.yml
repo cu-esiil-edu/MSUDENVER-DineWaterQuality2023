@@ -1,16 +1,6 @@
 
-layout: default
-title: Dine Water Quality
-nav_order: 8
-remote_theme: just-the-docs/just-the-docs
 
- navigation:
-    - title: Home
-      url: /index.html
-    - title: About
-      url: /about
-    - title: Background
-      url: 
+remote_theme: just-the-docs/just-the-docs
 
 
 # Aux links for the upper right navigation
