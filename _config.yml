@@ -1,9 +1,8 @@
----
+
 layout: default
-title: UI Components
+title: Dine Water Quality
 nav_order: 8
 remote_theme: just-the-docs/just-the-docs
----
 
  navigation:
     - title: Home
