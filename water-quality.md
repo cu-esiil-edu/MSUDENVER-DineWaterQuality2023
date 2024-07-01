@@ -57,6 +57,10 @@ Furthermore, we wanted to find out if the heavy metals made the water unsafe to 
 
 ## Surface Water Testing Sites Map
 
-There are many EPA water testing sites on the Dine Reservation.  We analyzed data collected at these sites, mapped here.
+There are many EPA water testing sites on the Dine Reservation.  We analyzed data collected at these sites, mapped here:
 
 ![Surface Water Sampling Sites](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterSamplingMap3.jpg?raw=true "surface water sampling sites")
+
+### How did we map that?
+
+
