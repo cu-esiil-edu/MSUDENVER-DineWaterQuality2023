@@ -68,3 +68,13 @@ Click on the image to view the code on GitHUb.com.  From there, you can fork the
 ## Heavy Metal Results Graphs
 
 We chose to look at the monthly maximum readings of each heavy metal as we would not want to drink water where the maximum exceeded the EPA limit.
+
+![Arsenic]()
+
+<figure>
+    <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true"
+         alt="Arsenic Graph">
+    <figcaption>Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill.  
+      Secondary spikes occurred after the spill, with the largest spikes in 2019. </figcaption>
+</figure>
+
