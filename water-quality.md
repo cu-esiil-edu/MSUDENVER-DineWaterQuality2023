@@ -69,8 +69,6 @@ Click on the image to view the code on GitHUb.com.  From there, you can fork the
 
 We chose to look at the monthly maximum readings of each heavy metal as we would not want to drink water where the maximum exceeded the EPA limit.
 
-![Arsenic]()
-
 <figure>
     <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true"
          alt="Arsenic Graph">
