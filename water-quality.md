@@ -10,7 +10,7 @@ There are many benchmark indicators of water, such as the amount of turbidity an
 
 ## Surface Water Samples
 
-We wanted to find out if there were heavy metals in the water on the Dine Reservation and if those heavy metals were naturally occurring or caused by the Gold King Mine Spill. We started by examining surface water.  To examine the water quality before and after the Gold King Mine spill, we chose to look at the heavy metal contaminants, Arsenic, Lead, Aluminum, Iron, and Manganese.  Arsenic and Lead are primary pollutants and the others are secondary.  Primary pollutants take a lot less of the pollutant to be dangerous to health than secondary pollutants.  
+We wanted to find out if there were heavy metals in the water on the Dine Reservation and if those heavy metals were there because of the Gold King Mine Spill. We started by examining surface water.  To examine the water quality before and after the Gold King Mine spill, we chose to look at the heavy metal contaminants, Arsenic, Lead, Aluminum, Iron, and Manganese.  Arsenic and Lead are primary pollutants and the others are secondary.  Primary pollutants take a lot less of the pollutant to be dangerous to health than secondary pollutants.  
 
 
 <table>
