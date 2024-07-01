@@ -62,5 +62,5 @@ There are many EPA water testing sites on the Dine Reservation.  We analyzed dat
 ![Surface Water Sampling Sites](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterSamplingMap3.jpg?raw=true "surface water sampling sites")
 
 ### How did we map that?
-
+[![Surface Water Sampling Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterExampleCode.jpg?raw=true "Surface Water Sampling Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/ESIIL_stars_dine_water_analysis.ipynb)
 
