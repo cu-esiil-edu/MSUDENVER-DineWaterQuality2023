@@ -1,16 +1,25 @@
-#About 
+# About 
 
-###Interns (include a photo, sentence or link to websites?)
+### Interns (include a photo, sentence or link to websites?)
+
 Scott Sheldon
+
 Celeste Leedle
+
 Rosie Patrick
+
 Meghan Smedes
 
-###Advanced Interns
+### Advanced Interns
+
 Michela Johnson
+
 Naomi Jacquez
+
 Kaiea Rohlehr
 
-###Faculty Advisors
+### Faculty Advisors
+
 Dr. Sylvia Brady
+
 Dr. David Parr
