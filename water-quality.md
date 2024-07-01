@@ -71,7 +71,8 @@ We chose to look at the monthly maximum readings of each heavy metal as we would
 
 ![Arsenic](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true "Arsenic Graph")
 
-    > *Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill. Secondary spikes occurred after the spill, with the largest spikes in 2019.*
+> *Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill. 
+Secondary spikes occurred after the spill, with the largest spikes in 2019.*
     
 
 <figure>
