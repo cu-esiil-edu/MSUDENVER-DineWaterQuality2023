@@ -65,3 +65,6 @@ There are many EPA water testing sites on the Dine Reservation.  We analyzed dat
 Click on the image to view the code on GitHUb.com.  From there, you can fork the code to reproduce your own project.
 [![Surface Water Sampling Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterExampleCode.jpg?raw=true "Surface Water Sampling Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/ESIIL_stars_dine_water_analysis.ipynb)
 
+## Heavy Metal Results Graphs
+
+We chose to look at the monthly maximum readings of each heavy metal as we would not want to drink water where the maximum exceeded the EPA limit.
