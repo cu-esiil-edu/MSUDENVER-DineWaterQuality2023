@@ -63,8 +63,9 @@ There are many EPA water testing sites on the Dine Reservation.  We analyzed dat
 
 ### How did we map that?
 Below is a sample of code from this map.
-Click on the image to view the complete code on GitHUb.com. 
+Click on the image to view the complete code on GitHub.com. 
 From there, you can fork the code to reproduce your own project.
+
 [![Surface Water Sampling Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterExampleCode.jpg?raw=true 
 "Surface Water Sampling Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/ESIIL_stars_dine_water_analysis.ipynb)
 
