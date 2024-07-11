@@ -102,3 +102,7 @@ Below is a sample of code from these graphs.
 Click on the sample to view the complete code on GitHub.com. 
 From there, you can fork the code to reproduce your own project.
 
+https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode3.jpg?raw=true
+
+
+
