@@ -73,8 +73,8 @@ Below is a sample of code from this map.
 Click on the image to view the complete code on GitHub.com. 
 From there, you can fork the code to reproduce your own project.
 
-[![Surface Water Sampling Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterExampleCode.jpg?raw=true 
-"Surface Water Sampling Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/ESIIL_stars_dine_water_analysis.ipynb)
+[![Surface Water Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterExampleCode.jpg?raw=true 
+"Surface Water Sample Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/ESIIL_stars_dine_water_analysis.ipynb)
 
 ## Heavy Metal Results Graphs
 
@@ -102,7 +102,9 @@ Below is a sample of code from these graphs.
 Click on the sample to view the complete code on GitHub.com. 
 From there, you can fork the code to reproduce your own project.
 
-https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode3.jpg?raw=true
+[![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode3.jpg?raw=true
+"Heavy Metals Sample Code")](
 
-
+[![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode4.jpg?raw=true)
+"Heavy Metals Sample Code Graph]()
 
