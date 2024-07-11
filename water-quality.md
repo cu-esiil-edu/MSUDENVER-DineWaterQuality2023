@@ -16,7 +16,7 @@ We wanted to find out if there were heavy metals in the water on the Dine Reserv
 We started by examining surface water. To examine the water quality before and after the Gold King Mine spill, we chose to look at the heavy metal contaminants, 
 Arsenic, Lead, Aluminum, Iron, and Manganese. Arsenic and Lead are primary pollutants and the others are secondary. 
 Primary pollutants take a lot less of the pollutant to be dangerous to health than secondary pollutants.  
-
+  
 
 <table>
   <tr>
@@ -86,15 +86,18 @@ We chose to look at the monthly maximum readings of each heavy metal as we would
 Secondary spikes occurred after the spill, with the largest spikes in 2019.*
 
 
+
 ![Lead and Al](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/LeadAluminumGraph.jpg?raw=true "Lead and Aluminum Graphs")
 
 > *Both lead and aluminum were not present before the Gold King Mine Spill, but were present afterward, with a secondary spike in 2019.*
+
 
 
 ![Iron and Manganese](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/IronManganeseGraph.jpg?raw=true "Iron and Manganese" )
 
 > *The EPA began monitoring for iron and manganese a few days after the Gold King Mine Spill, so levels beforehand are unknown.
 > There were secondary spikes, the largest in 2019.*
+
 
 
 ### How did we graph that?
