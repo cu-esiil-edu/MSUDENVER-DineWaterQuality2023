@@ -119,5 +119,6 @@ With the consistent spikes in heavy metals in 2019, we suspected that the stream
 
 > *High peak in stream flow in 2019 on the San Juan River.*
 
+![ReturnPeriod](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ReturnPeriodMonthlyFlow.jpg?raw=true)
 
 > *There was a 75-year flooding event in 2019.*
