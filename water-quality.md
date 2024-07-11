@@ -85,12 +85,20 @@ We chose to look at the monthly maximum readings of each heavy metal as we would
 > *Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill. 
 Secondary spikes occurred after the spill, with the largest spikes in 2019.*
 
+
 ![Lead and Al](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/LeadAluminumGraph.jpg?raw=true "Lead and Aluminum Graphs")
 
 > *Both lead and aluminum were not present before the Gold King Mine Spill, but were present afterward, with a secondary spike in 2019.*
+
 
 ![Iron and Manganese](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/IronManganeseGraph.jpg?raw=true "Iron and Manganese" )
 
 > *The EPA began monitoring for iron and manganese a few days after the Gold King Mine Spill, so levels beforehand are unknown.
 > There were secondary spikes, the largest in 2019.*
+
+
+### How did we graph that?
+Below is a sample of code from these graphs.
+Click on the sample to view the complete code on GitHub.com. 
+From there, you can fork the code to reproduce your own project.
 
