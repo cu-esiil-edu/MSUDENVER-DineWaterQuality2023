@@ -115,14 +115,14 @@ From there, you can fork the code to reproduce your own project.
 With the consistent spikes in heavy metals in 2019, we suspected that the stream discharge was higher than normal.  Using Python coding and the (source) we decided to check. 
 The stream flow in the graph below, shows that there was a high discharge of water in 2019.
 
-![MaxMonthlyDischarge](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MonthlyMaxDischarge.jpg?raw=true
-"Max Monthly Discharge for Dine Reservation 2005-2022")
+<img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MonthlyMaxDischarge.jpg?raw=true" alt =
+"Max Monthly Discharge for Dine Reservation 2005-2022"  width="70%" height="70%">
 
 > *High peak in stream flow in 2019 on the San Juan River.*
 
 In our second analysis, we found that there was a 75-year flooding event and a high peak in stream flow in 2019.  The event likely caused the heavy metals that had settled into the sediment to loosen and reappear in the water. 
 
-![ReturnPeriod](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ReturnPeriodMonthlyFlow.jpg?raw=true)
+<img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ReturnPeriodMonthlyFlow.jpg?raw=true" alt ="Return Period of Peak Flows" width="70%" height="70%">
 
 > *This graph shows the return period for flow events on the y-axis.  The return period is how often a flow at that level occurs.
 > In 2019 there was a 75-year flooding event.*
