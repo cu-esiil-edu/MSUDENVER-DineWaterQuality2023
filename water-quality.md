@@ -110,3 +110,10 @@ From there, you can fork the code to reproduce your own project.
 ![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode4.jpg?raw=true
 "Heavy Metals Sample Code Graph")
 
+**What happened in 2019?**
+
+With the consistent spikes in heavy metals in 2019, we suspected that the stream discharge was higher than normal.  Using Python coding and the (source) we decided to check.
+
+> *High peak in stream flow in 2019 on the San Juan River.*
+
+
