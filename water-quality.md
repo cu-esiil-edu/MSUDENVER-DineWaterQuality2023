@@ -107,6 +107,6 @@ From there, you can fork the code to reproduce your own project.
 
 [![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode3.jpg?raw=true
 "Heavy Metals Sample Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/91b255b7b3177e104ff4443e5581fc3f5e798ee5/Copy_of_Surface_Water_Data.ipynb)
-[![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode4.jpg?raw=true)
-"Heavy Metals Sample Code Graph](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/91b255b7b3177e104ff4443e5581fc3f5e798ee5/Copy_of_Surface_Water_Data.ipynb)
+![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode4.jpg?raw=true
+"Heavy Metals Sample Code Graph")
 
