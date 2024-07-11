@@ -87,7 +87,7 @@ Secondary spikes occurred after the spill, with the largest spikes in 2019.*
 
 ![Lead and Al](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/LeadAluminumGraph.jpg?raw=true "Lead and Aluminum Graphs")
 
-> *Both lead and aluminum are similar to Arsenic with spikes following the Gold King Mine Spill and a secondary spike in 2019.*
+> *Both lead and aluminum were not present before the Gold King Mine Spill, but were present afterward, with a secondary spike in 2019.*
 
 
 
