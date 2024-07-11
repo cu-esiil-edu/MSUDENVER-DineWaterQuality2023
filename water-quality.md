@@ -126,3 +126,61 @@ In our second analysis, we found that there was a 75-year flooding event and a h
 
 > *This graph shows the return period for flow events on the y-axis.  The return period is how often a flow at that level occurs.
 > In 2019 there was a 75-year flooding event.*
+
+
+Not all samples were above acceptable limits.  The table below shows the percent of samples above EPA acceptable limits.  Sometimes levels didn’t have concerning levels of a particular heavy metal.  However, just the possibility, made it a health risk to drink water at that time. Looking at this table, one could surmise a 2 in 10 chance that their glass of water could have concerning levels of arsenic and lead between 2012-2022 (see previous graphs).  Likewise, a glass of water had a 9 in 10 chance of containing concerning levels of aluminum, iron, and manganese.
+
+
+<table>
+  <tr>
+   <td><strong>Contaminant </strong>
+   </td>
+   <td><strong>Percentage of Samples Above EPA Acceptable Limits</strong>
+   </td>
+   <td><strong>EPA limits for safe drinking water</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Arsenic
+   </td>
+   <td><strong>15.5%</strong>
+   </td>
+   <td>10 ppb (parts per billion)
+   </td>
+  </tr>
+  <tr>
+   <td>Lead
+   </td>
+   <td><strong>24.3%</strong>
+   </td>
+   <td>15 ppb
+   </td>
+  </tr>
+  <tr>
+   <td>Aluminum
+   </td>
+   <td><strong>88.0%</strong>
+   </td>
+   <td>200 ppb
+   </td>
+  </tr>
+  <tr>
+   <td>Iron
+   </td>
+   <td><strong>87.5%</strong>
+   </td>
+   <td>300 ppb
+   </td>
+  </tr>
+  <tr>
+   <td>Manganese
+   </td>
+   <td><strong>88.4%</strong>
+   </td>
+   <td>50 ppb
+   </td>
+  </tr>
+</table>
+
+
+**Well and Spring Water Quality**
