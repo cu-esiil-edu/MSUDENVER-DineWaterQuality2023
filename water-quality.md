@@ -121,4 +121,5 @@ With the consistent spikes in heavy metals in 2019, we suspected that the stream
 
 ![ReturnPeriod](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ReturnPeriodMonthlyFlow.jpg?raw=true)
 
-> *There was a 75-year flooding event in 2019.*
+> *This graph shows the return period for flow events on the y-axis.  The return period is how often flow of that level occurs.
+> In 2019 there was a 75-year flooding event.*
