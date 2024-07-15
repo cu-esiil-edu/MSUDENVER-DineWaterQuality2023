@@ -187,6 +187,6 @@ Not all samples were above acceptable limits.  The table below shows the percent
 
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/EPAWaterSamples.jpg?raw=true" alt="EPA Table of Water Samples">
 
-<*EPA Table of Water Sampling*>
+> *EPA Table of Water Sampling on the Diné Reservation* 
 
 
