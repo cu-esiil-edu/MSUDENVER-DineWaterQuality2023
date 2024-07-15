@@ -184,3 +184,5 @@ Not all samples were above acceptable limits.  The table below shows the percent
 
 
 **Well and Spring Water Quality**
+
+<img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/EPAWaterSamples.jpg?raw=true" alt="EPA Table of Water Samples">
