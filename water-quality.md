@@ -183,13 +183,13 @@ Not all samples were above acceptable limits.  The table below shows the percent
 </table>
 
 
-**Well and Spring Water Quality**
+## Well and Spring Water Quality
 
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/EPAWaterSamples.jpg?raw=true" alt="EPA Table of Water Samples">
 
-> *EPA Table of Water Sampling on the Diné Reservation* 
+> *EPA table, in csv format, of water sampling on the Diné Reservation* 
 
-**Well and Spring Testing Sites Map**
+### Well and Spring Testing Sites Map
 
 The following sites were tested for aluminum, thorium, antimony, and uranium.  There are 225 testing sites. We looked at the exceedance values of the EPA’s limits for safe drinking water. 
 
@@ -201,8 +201,14 @@ The data was collected between 1998-2000, before the Gold-King Mine spill. The p
 
 **Well and Spring Sites Results**
 
-What we found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.  More data needs to be collected to calculate if these heavy metals still exist today since the last recording was in 1986.
+We found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.  More data needs to be collected to calculate if these heavy metals still exist today since the last recording was in 1986.
 
 **How did we code that?**
 
+To code this, we used the csv in the EPA Sampling Table and combined it with the Diné Reservation map.
+
+<img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCode1.jpg?raw=true" alt= "Well and Spring Code 1" >
+<img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCode2.jpg?raw=true" alt= "Well and Spring Code 2" >
+<img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCode3.jpg?raw=true" alt= "Well and Spring Code 3" >
+<img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCodeFinal.jpg?raw=true" alt= "Well and Spring Code 4" >
 
