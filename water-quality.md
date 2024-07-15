@@ -185,25 +185,19 @@ Not all samples were above acceptable limits.  The table below shows the percent
 
 ## Well and Spring Water Quality
 
+In addition to checking for surface water quality, we checked for well and spring water quality.  Well and spring water is an important source of drinking water on the Dine Reservation.  On the EPA website, we found water sampling data for a variety of wells on the reservation.  This site showed an EPA risk rating and exceedance values of heavy metals, including aluminum (Al), thorium (Th), antimony (Sb), and uranium (U), which we focused on in our analysis.
+
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/EPAWaterSamples.jpg?raw=true" alt="EPA Table of Water Samples">
 
 > *EPA table, in csv format, of water sampling on the Diné Reservation* 
 
-### Well and Spring Testing Sites Map
+First we made a map of the EPA’s testing sites. There are a total of 225 testing sites, the  map showing the location of heavy metals we analyzed.
 
-The following sites were tested for aluminum, thorium, antimony, and uranium.  There are 225 testing sites. We looked at the exceedance values of the EPA’s limits for safe drinking water. 
-
-The data was collected between 1998-2000, before the Gold-King Mine spill. The presence of these metals could be natural or, more likely, could have entered the groundwater by uranium mining that occurred between 1944 and 1986.  
-
-
-<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringMap.jpg?raw=true" alt="Well and Springs on the Reservation" width="60%" height="60%">
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringMap.jpg?raw=true" alt="Wells and Springs on the Reservation" width="60%" height="60%">
+> *Locations of wells and springs tested by the EPA that contain Al, Th, Sb, and U.*
 
 
-**Well and Spring Sites Results**
-
-We found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.  More data needs to be collected to calculate if these heavy metals still exist today since the last recording was in 1986.
-
-**How did we code that?**
+### How did we code that?
 
 To code this, we used the csv in the EPA Sampling Table and combined it with the Diné Reservation map.
 
@@ -211,4 +205,15 @@ To code this, we used the csv in the EPA Sampling Table and combined it with the
 <img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCode2.jpg?raw=true" alt= "Well and Spring Code 2" >
 <img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCode3.jpg?raw=true" alt= "Well and Spring Code 3" >
 <img src ="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringCodeFinal.jpg?raw=true" alt= "Well and Spring Code 4" >
+
+### Well and Spring Testing Sites Maps
+
+The following sites were tested for aluminum, thorium, antimony, and uranium.  We looked at the exceedance values of the EPA’s limits for safe drinking water. 
+
+The data was collected between 1998-2000, before the Gold-King Mine spill. The presence of these metals could be natural or, more likely, could have entered the groundwater by uranium mining that occurred between 1944 and 1986.  
+
+### Well and Spring Sites Results
+
+We found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.  More data needs to be collected to calculate if these heavy metals still exist today since the last recording was in 1986.
+
 
