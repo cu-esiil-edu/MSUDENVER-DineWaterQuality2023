@@ -241,7 +241,7 @@ To make this map, we called in the Exceedance of Aluminum column from the table.
 
 ### Well and Spring Sites Results
 
-We found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.
+We found that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.
 The last sampling of heavy metals was in 1986. More data needs to be collected to calculate if these heavy metals still exist today and whether they have increased or decreased.
 An increase could indicate that pollution reached the groundwater from the Gold King Mine Spill.
 
