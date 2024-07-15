@@ -15,3 +15,8 @@ We wanted to look at water quantity to see if there could be a correlation betwe
 We chose to analyze 5 USGS wells that are continuously monitored shown in Figure 3.1 
 
 ![Map Well Depth](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/mapWellDepth.png?raw=true "Map of Well Depth")
+
+> *Figure 3.1 Location of wells monitored by the USGS.*
+
+## How did we code that?
+
