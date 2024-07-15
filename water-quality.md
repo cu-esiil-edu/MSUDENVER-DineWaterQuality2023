@@ -213,7 +213,10 @@ The following sites were tested for aluminum, thorium, antimony, and uranium.  W
 
 The data was collected between 1998-2000, before the Gold-King Mine spill. The presence of these metals could be natural or, more likely, could have entered the groundwater by uranium mining that occurred between 1944 and 1986.  
 
-<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/AIExceedance2.jpg?raw=true" alt="Map of Wells with Exceedance of Aluminum" width="60%" height="60%">
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/AIExceedance2.jpg?raw=true" alt="Map of Wells with Exceedance of aluminum" width="60%" height="60%">
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ThExceedance2.jpg?raw=true" alt="Map of Wells with Exceedance of thorium" width="60%" height="60%">
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/UExceedance.jpg?raw=true" alt="Map of Wells with Exceedance of uranium" width="60%" height="60%">
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SbExceedence.jpg?raw=true" alt="Map of Wells with Exceedance of antimony" width="60%" height="60%">
 
 
 ### Well and Spring Sites Results
