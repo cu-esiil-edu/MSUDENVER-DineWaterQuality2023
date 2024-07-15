@@ -217,6 +217,11 @@ The data was collected between 1998-2000, before the Gold-King Mine spill. The p
 
 > *The red dots on the map show the location of 17 sites with aluminum values that exceed safe drinking water limits.*
 
+### How did we code that?
+
+To make this map, we called in the Exceedance of Aluminum column from the table.
+![Exceedance of Al](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ExceedanceofAlCode2.jpg?raw=true)
+
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ThExceedance2.jpg?raw=true" alt="Map of Wells with Exceedance of thorium" width="60%" height="60%">
 
 > *The red dots on the map show the location of 22 sites with thorium values that exceed safe drinking water limits.*
@@ -232,7 +237,7 @@ The data was collected between 1998-2000, before the Gold-King Mine spill. The p
 
 ### Well and Spring Sites Results
 
-We found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.  
+We found is that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.
 More data needs to be collected to calculate if these heavy metals still exist today since the last recording was in 1986.
 
 
