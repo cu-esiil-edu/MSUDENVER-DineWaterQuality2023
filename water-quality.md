@@ -57,6 +57,7 @@ Primary pollutants take a lot less of the pollutant to be dangerous to health th
   </tr>
 </table>
 
+> *Table 1*
 
 Furthermore, we wanted to find out if the heavy metals made the water unsafe to drink.  
 The EPA sets limits for the amount of contaminant present for drinking water to be safe.  
@@ -182,6 +183,7 @@ Not all samples were above acceptable limits.  The table below shows the percent
   </tr>
 </table>
 
+> *Table 2*
 
 ## Well and Spring Water Quality
 
