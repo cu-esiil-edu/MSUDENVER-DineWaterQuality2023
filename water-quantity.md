@@ -20,3 +20,4 @@ We chose to analyze 5 USGS wells that are continuously monitored shown in Figure
 
 ## How did we code that?
 
+![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode3.jpg?raw=true)
