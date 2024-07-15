@@ -10,7 +10,7 @@ There are many benchmark indicators of water, such as the amount of turbidity an
 In naturally occurring ecosystems, untouched by human activity, the presence of the indicator, heavy metals, is usually low.  
 There can be naturally occurring heavy metals in water, however.  The level of heavy metals can have many environmental and health implications.
 
-## Surface Water Samples
+## Surface Water Quality
 
 We wanted to find out if there were heavy metals in the water on the Dine Reservation and if those heavy metals were there because of the Gold King Mine Spill. 
 We started by examining surface water. To examine the water quality before and after the Gold King Mine spill, we chose to look at the heavy metal contaminants, 
@@ -62,7 +62,7 @@ Furthermore, we wanted to find out if the heavy metals made the water unsafe to 
 The EPA sets limits for the amount of contaminant present for drinking water to be safe.  
 For each metal, we compared the presence of heavy metals to the EPA limit.
 
-## Surface Water Testing Sites Map
+### Surface Water Testing Sites Map
 
 There are many EPA water testing sites on the Dine Reservation.  We analyzed data collected at these sites, mapped here:
 
@@ -76,7 +76,7 @@ From there, you can fork the code to reproduce your own project.
 [![Surface Water Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterExampleCode.jpg?raw=true 
 "Surface Water Sample Code")](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/ESIIL_stars_dine_water_analysis.ipynb)
 
-## Heavy Metal Results Graphs
+### Heavy Metal Results Graphs
 
 We chose to look at the monthly maximum readings of each heavy metal as we would not want to drink water where the maximum exceeded the EPA limit.
 
@@ -110,7 +110,7 @@ From there, you can fork the code to reproduce your own project.
 ![Heavy Metals Sample Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/heavyMetalsCode4.jpg?raw=true
 "Heavy Metals Sample Code Graph")
 
-**What happened in 2019?**
+### What happened in 2019?
 
 With the consistent spikes in heavy metals in 2019, we suspected that the stream discharge was higher than normal.  Using Python coding and the (source) we decided to check. 
 The stream flow in the graph below, shows that there was a high discharge of water in 2019.
