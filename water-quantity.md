@@ -18,7 +18,7 @@ We chose to analyze 5 USGS wells that are continuously monitored shown in Figure
 
 > *Figure 3.1 Location of wells monitored by the USGS.*
 
-## How did we map that?
+### How did we map that?
 
 [![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode3.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
 
@@ -45,10 +45,8 @@ This well might not be in use. Figures 4 and 5 are likely being used as the well
 
 > *Figures 4 and 5: These wells were likely in use as the well depth was increasing and the water level was decreasing.*
 
-
-
  
-## How did we code that graph?
+### How did we code that graph?
 
 [![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode4.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
 
@@ -56,12 +54,12 @@ This well might not be in use. Figures 4 and 5 are likely being used as the well
 
 In python, we did an ANOVA test that found these changes were not statistically significant.  We started with the import: from scypi.stats import f_oneway.  Then, entered our values to calculate variance.  To see more, or to reference this code for your own project, click on the code image.
 
-## How did we figure that out?
+### How did we test that?
 
 [![ANOVA Test](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode7.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
 
 
-### Results
+## Results
 
 While the water levels did not change significantly, we don’t know whether wells contain contaminants from the Gold King Mine Spill.  More needs to be learned about the 
 [water quality](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/2a252f78a491ddc01372c4dd522833f838bd241b/water-quality.md) 
