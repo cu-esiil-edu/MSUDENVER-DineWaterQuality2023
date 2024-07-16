@@ -18,7 +18,7 @@ We chose to analyze 5 USGS wells that are continuously monitored shown in Figure
 
 > *Figure 3.1 Location of wells monitored by the USGS.*
 
-## How did we code that?
+## How did we map that?
 
 [![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode3.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
 
@@ -32,5 +32,9 @@ Two well sites had fairly consistent depths annually between 2006-2022 (Figures 
 ![Map of Well 4](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell4.png?raw=true)
 
 > *Figures 1 and 2: Water levels stayed about the same.*
+
+## How did we code that graph?
+
+[![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode4.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
 
 
