@@ -14,7 +14,7 @@ We wanted to look at water quantity to see if there could be a correlation betwe
 ## Map of 5 Wells
 We chose to analyze 5 USGS wells that are continuously monitored shown in Figure 3.1 
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/mapWellDepth.png?raw=true" alt= "Map of Well Depth" width ="70%" height ="70%">
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/mapWellDepth.png?raw=true" alt= "Map of Well Depth" width="10%" height="10%">
 
 > *Figure 3.1 Location of wells monitored by the USGS.*
 
@@ -51,5 +51,14 @@ This well might not be in use. Figures 4 and 5 are likely being used as the well
 ## How did we code that graph?
 
 [![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode4.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
+
+## Depth not Statistically Significant
+
+In python, we did an ANOVA test that found these changes were not statistically significant.  We started with the import: from scypi.stats import f_oneway.  Then, entered our values to calculate variance.  To see more, or to reference this code for your own project, click on the code image.
+
+
+
+## How did we figure that out?
+
 
 
