@@ -46,7 +46,7 @@ This well might not be in use. Figures 4 and 5 are likely being used as the well
 > *Figures 4 and 5: These wells were likely in use as the well depth was increasing and the water level was decreasing.*
 
  
-### How did we code that graph?
+### How did we graph that?
 
 [![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode4.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
 
