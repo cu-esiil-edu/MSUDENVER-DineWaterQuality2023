@@ -21,3 +21,16 @@ We chose to analyze 5 USGS wells that are continuously monitored shown in Figure
 ## How did we code that?
 
 [![Depth Data Code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthDataCode3.jpg?raw=true)](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/37589d1e18ce6453b6cbf0a742ee1bc02605208a/Copy_of_ESIIL_Depth_Data.ipynb)
+
+## Graphing Well Depth
+
+Next, we analyzed the water depth at the USGS locations using graphs created through Python coding.  Water depth is the land surface to the surface of the water.  
+
+Two well sites had fairly consistent depths annually between 2006-2022 (Figures 1 and 2).
+
+![Map of Well 1](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell1.png?raw=true)
+![Map of Well 4](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell4.png?raw=true)
+
+> *Figures 1 and 2: Water levels stayed about the same.*
+
+
