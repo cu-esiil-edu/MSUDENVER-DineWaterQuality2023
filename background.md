@@ -70,7 +70,12 @@ The official “Navajo Reservation” was created.
   </tr>
 </table>
 
-Maps
+## The Gold King Mine Spill Impacted the San Juan Watershed
+
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapWatersheds.jpg?raw=true" alt= "Map of the San Juan Watershed on the Dine Reservation" >
+
+> *It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water.*
+
 
 Cool stuff
 
