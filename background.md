@@ -80,5 +80,5 @@ The Gold King Mine was in operation from approximately 1893 - 1923.  Many other 
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapWatersheds.jpg?raw=true" alt= "Map of the San Juan Watershed on the Dine Reservation" > <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/AnimasPolluted.jpg?raw=true" height="400px">
 
-> *Figure 1.1: It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water.* *Photo on right: The Animas River near Durango, CO shortly after the spill (Wikimedia Foundation, 2024).*
+> *Figure 1.1: It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water. Photo on right: The Animas River near Durango, CO shortly after the spill (Wikimedia Foundation, 2024).*
 
