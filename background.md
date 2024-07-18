@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Pottery2.jpg?raw=true" alt = "SW Pottery" width ="512" height ="250" >
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Pottery2.jpg?raw=true" alt = "SW Pottery" >
 
 # Background
 
