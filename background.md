@@ -3,6 +3,10 @@ layout: default
 title: Background
 nav_order: 1
 ---
+
+
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Pottery2.jpg?raw=true" alt = "SW Pottery" width ="512" height ="250" >
+
 # Background
 
 The Diné (Navajo) people have lived in the southwestern United States for at least 1,100 years.  Before the west was invaded by European groups - the Spanish then Americans - the Diné boundaries stretched into the San Luis Valley of Colorado, south to Albuquerque, west to Flagstaff and north into southeastern Utah.  After their defeat by Christopher “Kit” Carson’s armies, the Diné endured the long walk into a smaller territory where their tribal lands were reduced by more than half.  The present day reservation resides at the four corners, with most of the boundary in Northeastern Arizona.  Since their time on the reservation, the Diné people experienced uranium mining and the Gold King Mine Spill with devastating consequences.  Therein lies a resilient nation with a land that still needs remediation and a people who are still healing.
