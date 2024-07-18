@@ -76,10 +76,7 @@ In August 5, 2015, near Silverton, CO, a plug broke at the Gold King Mine and ac
 
 The Gold King Mine was in operation from approximately 1893 - 1923.  Many other mines have been in operation around it. All of these mines produce acidic mine tailings that have to be managed to prevent damage to aquatic ecosystems.  There have been question about how the EPA handled the situation and whether the spill could have been prevented.
 
-<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapWatersheds.jpg?raw=true" alt= "Map of the San Juan Watershed on the Dine Reservation" >
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapWatersheds.jpg?raw=true" alt= "Map of the San Juan Watershed on the Dine Reservation" > <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/AnimasPolluted.jpg?raw=true" height="400px" />
 
-> *Figure 1.1: It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water.*
+> *Figure 1.1: It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water.* *Photo on right: The Animas River near Durango, CO shortly after the spill (Wikimedia Foundation, 2024).*
 
-<img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/AnimasPolluted.jpg?raw=true" height="400px" />
-
-> *The Animas River near Durango, CO*
