@@ -43,6 +43,23 @@ The Gold King Mine was in operation from approximately 1893 - 1923.  Many other 
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapWatersheds.jpg?raw=true" alt= "Map of the San Juan Watershed on the Dine Reservation" > 
 
-> *It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water.* 
+> *It’s all connected: The San Juan Watershed is connected to the Las Animas River where the Gold King Mine Spill contaminated the water.*
+
+## Historic Uranium Mining
+
+In 1948, there was a uranium mining boom, propelled by the US Atomic Energy Commission (AEC).  The commission contracted private companies to mine uranium.  The Navajo Nation lies on the Uranium Belt, wich is part of the Colorado Plateau with uranium imbedded in the sandstone.  The area is ideal for mining the heavy metal.  Eventually, the reservation had 1,000 mines and between 3,000-6,000 workers.
+
+In 1951 health studies began on the reservation by the US Public Health Service, unbeknownst to the Diné people. Uranium mining was linked to many cancers, especially lung cancer.  It has also been found to impact reproductive health and child development among other health concerns.
+
+Uranium mining ended in 2005.
+
+
+> In 2005, the President of the Navajo Nation,[ Joe Shirley, Jr.](https://en.wikipedia.org/wiki/Joe_Shirley,_Jr.), signed the Diné Natural Resources Protection Act which banned uranium mining and processing on Navajo land. After signing the law, President Shirley stated, "As long as there are no answers to cancer, we shouldn't have uranium mining on the Navajo Nation. I believe the powers that be committed[ genocide](https://en.wikipedia.org/wiki/Genocide) on Navajo land by allowing uranium mining” (Wikimedia Foundation, 2024b).
+
+Some superfund sites from the US Environmental Protection Agency exist on the reservation, but much more clean up and remediation of mined lands is needed.
+
+
+
+
 
 
