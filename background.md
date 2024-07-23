@@ -35,11 +35,11 @@ The Diné (Navajo) people have lived in the southwestern United States for at le
 
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/AnimasPolluted.jpg?raw=true" width = "35%" height="35%">
 
-> *The Animas River near Durango, CO shortly after the spill (Wikimedia Foundation, 2024).*
+> *The Animas River near Durango, CO shortly after the spill (Wikimedia Foundation, 2024a).*
 
-In August 5, 2015, near Silverton, CO, a plug broke at the Gold King Mine and acidic water burst out.  The plug was holding back pressurized acidic mine water that had collected behind it. It had been installed along with several other plugs to stop mine pollution from reaching the Animas River.  However, during work by the EPA to build pipes and a pond to release and retain the water, the pressurized plug could no longer hold.  A torrent of water rushed into the Animas River. Soon it joined with the San Juan River and spread like arteries on the land throughout the San Juan watershed (Figure 1.1). It appeared like a scene in Willy Wonka as a butterscotch milkshake rushing through the town of Durango and eventually into Shiprock, a community in Navajo Nation.  But, unlike a milkshake, its contents could harm aquatic life, people, livestock and plants.  “On August 8, Colorado Governor John Hickenlooper declared a disaster as did Navajo President Russell Begaye” (Wikimedia Foundation, 2024).  Officials warned against drinking the water and farmers and ranchers stopped using it.  People were urged to test their water.
+In August 5, 2015, near Silverton, CO, a plug broke at the Gold King Mine and acidic water burst out.  The plug was holding back pressurized acidic mine water that had collected behind it. It had been installed along with several other plugs to stop mine pollution from reaching the Animas River.  However, during work by the EPA to build pipes and a pond to release and retain the water, the pressurized plug could no longer hold.  A torrent of water rushed into the Animas River. Soon it joined with the San Juan River and spread like arteries on the land throughout the San Juan watershed (Figure 1.1). It appeared like a scene in Willy Wonka as a butterscotch milkshake rushing through the town of Durango and eventually into Shiprock, a community in Navajo Nation.  But, unlike a milkshake, its contents could harm aquatic life, people, livestock and plants.  “On August 8, Colorado Governor John Hickenlooper declared a disaster as did Navajo President Russell Begaye” (Wikimedia Foundation, 2024a).  Officials warned against drinking the water and farmers and ranchers stopped using it.  People were urged to test their water.
 
-The Gold King Mine was in operation from approximately 1893 - 1923.  Many other mines have been in operation around it. All of these mines produce acidic mine tailings that have to be managed to prevent damage to aquatic ecosystems (Wikimedia Foundation, 2024).  
+The Gold King Mine was in operation from approximately 1893 - 1923.  Many other mines have been in operation around it. All of these mines produce acidic mine tailings that have to be managed to prevent damage to aquatic ecosystems (Wikimedia Foundation, 2024a).  
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapWatersheds.jpg?raw=true" alt= "Map of the San Juan Watershed on the Dine Reservation" > 
 
@@ -54,11 +54,13 @@ In 1951 health studies began on the reservation by the US Public Health Service,
 Uranium mining ended in 2005.
 
 
-> In 2005, the President of the Navajo Nation,[ Joe Shirley, Jr.](https://en.wikipedia.org/wiki/Joe_Shirley,_Jr.), signed the Diné Natural Resources Protection Act which banned uranium mining and processing on Navajo land. After signing the law, President Shirley stated, "As long as there are no answers to cancer, we shouldn't have uranium mining on the Navajo Nation. I believe the powers that be committed[ genocide](https://en.wikipedia.org/wiki/Genocide) on Navajo land by allowing uranium mining” (Wikimedia Foundation, 2024b).
+> In 2005, the President of the Navajo Nation,Joe Shirley, Jr., signed the Diné Natural Resources Protection Act which banned uranium mining and processing on Navajo land. After signing the law, President Shirley stated, "As long as there are no answers to cancer, we shouldn't have uranium mining on the Navajo Nation. I believe the powers that be committed genocide on Navajo land by allowing uranium mining” (Wikimedia Foundation, 2024b).
 
-Some superfund sites from the US Environmental Protection Agency exist on the reservation, but much more clean up and remediation of mined lands is needed.
+Some superfund sites from the US Environmental Protection Agency exist on the reservation, but much more clean up and remediation of mined lands is needed (Wikimedia Foundation 2024b).
+ 
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellsandUraniumMines.jpg?raw=true" alt= "Map of Uranium Mines and Wells on the Dine Reservation">
 
-
+> *Uranium mines are very close to Diné wells and groundwater.*
 
 
 
