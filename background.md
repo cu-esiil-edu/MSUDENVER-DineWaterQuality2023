@@ -16,7 +16,7 @@ The Diné (Navajo) people have lived in the southwestern United States for at le
 
 * **1850-Navajo Treaty of 1850**
     * Fighting among the Spaniards, Mexicans, and Diné led to the US relocating the Diné instead of protecting them and the territory they were on as stated in the Treaty of 1850 -Byron Yazzie
-    * Promised protection and a permanent homeland.
+    * The Diné are promised protection and a permanent homeland by the US government.
 * **1863-1868 - The Long Walk and Captivity at Bosque Redondo**
     * Despite the treaty, the Diné people were forcibly marched to Bosque Redondo. 
     * They experienced “Hwéeldi”- synonymous with misery, starvation, disease, and death to the Diné people.
