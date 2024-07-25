@@ -41,6 +41,30 @@ Radon is another product of uranium.  Houses built on an area with uranium or bu
 > *Figure 5.2 Percent and location of the total population who are 65 and older on the Diné Reservation.*
 
 ### How did we map that?
-To make this map, we divided the population above 65 years old by the total population and rounded it to the ones place, using the formula below.  
+To make this map, we divided the population above 65 years old by the total population and rounded it to the ones place, using the formula below. The P0 numbers are representative of US Census Populations and were pulled from a table. 
 
 ![65Up](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/65upcode5-%25.jpg?raw=true "65 and up sample code")
+
+### Women Ages 15-50
+
+Another vulnerable group we included in our study was fertility in women, which the US Census defines as women between the ages 15-50 years old (Figure 5.3).  In other words, this is the age span when women could become pregnant.  Especially at risk is the developing zygote, embryo or fetus, depending on stage of development, as contaminants pass from the placenta of the mother and through the umbilical cord to the child.  While developing, the embryo or fetus does not have the liver function to process contaminants as well as children and adults. This makes the unborn child very vulnerable.
+
+In our surface water study, we looked at levels of lead and arsenic.  We found that the EPA limit of safety for lead is 15 ppb and in 2019, it spiked to over 500 ppb!  According to the American Academy of Pediatrics, there is no safe level of lead in children (American Academy of Pediatrics, 2024).  “Lead exposure is especially harmful to infants, fetuses, and children due to the developing nature of their brains” (Spicer, 2018).
+
+In 2019, arsenic in surface water spiked to 40 ppb, which is 30 ppb above EPA safe limits. Arsenic is a reproductive toxicant and a teratogen, which means it can cause malformations. This is especially concerning as arsenic is readily transferred across the placenta, and concentrations in cord blood are similar to those in maternal blood.  Additionally, arsenic exposure in pregnant women can lead to miscarriage and infant mortality post birth (Agency for Toxic Substances and Disease Registry, 2023).
+
+Additionally, manganese and uranium are concerns as contaminants to women 15-50.  Nervous system and reproductive effects have been observed in animals after high oral doses of manganese.  After the Gold King Mine Spill, manganese rose to 11,000 ppb in 2015 and 20,000 ppb in 2019 (Figure 4.4).  The EPA safe limit is 50 ppb and manganese has returned to that level.  Uranium continues to be present in women and their infants.  A New Mexico University study found:
+
+> 26 percent of Navajo women currently have concentrations of uranium in their system that exceed levels found in the highest 5 percent of the U.S. population, and that newborns with equally high concentrations continue to be exposed to uranium during their first year (Calvert, 2021).
+
+The level of uranium was found to exceed EPA safe drinking water limits in 27 wells and springs on the reservation (Figure 4.11).  Many of those are located in and near to Canyon de Chelly where 28% of the population are women ages 15-50 (Figure 5.3).
+
+### Map of Women Ages 15-50
+
+> *Figure 5.3: Location and the percent of the total population of women who are between the ages of 15-50 on the Diné Reservation.*  
+
+
+### How did we map that?
+
+After finding the women ages 15-50 out of the total population, we used the following code to create a choropleth map showing population percentages. To view more code, click on the image.
+
