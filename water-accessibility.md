@@ -72,5 +72,24 @@ After finding the women ages 15-50 out of the total population, we used the foll
 
 ![code for 15-50](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Sample%2515to50.jpg?raw=true "sample code for map") 
 
+### People Under 18
+
+Children and adolescents, under the age of 18, are legally not adults.  Physiologically this is also true as their brains and bodies are not fully developed.  For some,development may continue into the early 20’s, but our data was confined by the US Census Bureau’s definition for adult, which is 18 years old.
+
+Many of the contaminants we studied are of concern in the under 18 group.  Lead is a well known poison.
+
+> The effects of lead exposure in children include, but are not limited to:
+>    * Lower IQ
+>    * Delayed or impaired neurological development
+>    * Decreased hearing, speech and language disabilities
+>    * Poor attention span, learning disabilities, and anti-social behaviors (Spicer, 2018)
+
+Additionally, lead “can often cause problems with bones, replacing calcium,” which is a huge concern for a body with experiencing bone growth.  It can cause delayed growth and also remains in the bones, so that the lead continuously causes neurological issues after exposure.  Neurological issues may show up as inattentiveness and disorganization (Agency for Toxic Substances and Disease Registry, 2023).
+
+Antimony was found in the well water on the Diné Reservation. It has been shown to cause development effects in animals that swallow antimony. It can also cause liver damage and low blood sugar (Agency for Toxic Substances and Disease Registry, 2019).  It is safe to assume that it would impact humans similarly.
+
+### Map of Percent of Population Under 18
+
+> *Figure 5.4: In python with folium maps there is an option to create popups.  In the code, the mouse can roll over each attribute, in this case the block groups, and get a bubble that shows information.  In our code (bottom right) we specify that we want % under 18 to show in the popup.*  
 
 
