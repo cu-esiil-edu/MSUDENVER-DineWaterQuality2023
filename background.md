@@ -57,6 +57,10 @@ Uranium mining ended in 2005.
 > In 2005, the President of the Navajo Nation, Joe Shirley, Jr., signed the Diné Natural Resources Protection Act which banned uranium mining and processing on Navajo land. After signing the law, President Shirley stated, "As long as there are no answers to cancer, we shouldn't have uranium mining on the Navajo Nation. I believe the powers that be committed genocide on Navajo land by allowing uranium mining” (Wikimedia Foundation, 2024b).
 
 Some superfund sites from the US Environmental Protection Agency exist on the reservation, but much more clean up and remediation of mined lands is needed (Wikimedia Foundation 2024b).
+
+> Today, there are more than 520 abandoned uranium mines on Navajo Nation, and the vast majority of them have not been remediated (i.e., cleaned up and environmentally contained). Roughly half of these mines still have gamma radiation levels more than 10 times the background level. Nearly all are located within a mile of a natural water source. And 17 are just 200 feet away — or less — from an occupied residence. Experts estimate that as a result, 85 percent of all Navajo homes are currently contaminated with uranium (Calvert, 2021).
+
+The map below illustrates how close wells are to uranium mines.
  
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellsandUraniumMines.jpg?raw=true" alt= "Map of Uranium Mines and Wells on the Dine Reservation">
 
