@@ -54,7 +54,7 @@ In 1951 health studies began on the reservation by the US Public Health Service,
 Uranium mining ended in 2005.
 
 
-> In 2005, the President of the Navajo Nation,Joe Shirley, Jr., signed the Diné Natural Resources Protection Act which banned uranium mining and processing on Navajo land. After signing the law, President Shirley stated, "As long as there are no answers to cancer, we shouldn't have uranium mining on the Navajo Nation. I believe the powers that be committed genocide on Navajo land by allowing uranium mining” (Wikimedia Foundation, 2024b).
+> In 2005, the President of the Navajo Nation, Joe Shirley, Jr., signed the Diné Natural Resources Protection Act which banned uranium mining and processing on Navajo land. After signing the law, President Shirley stated, "As long as there are no answers to cancer, we shouldn't have uranium mining on the Navajo Nation. I believe the powers that be committed genocide on Navajo land by allowing uranium mining” (Wikimedia Foundation, 2024b).
 
 Some superfund sites from the US Environmental Protection Agency exist on the reservation, but much more clean up and remediation of mined lands is needed (Wikimedia Foundation 2024b).
  
