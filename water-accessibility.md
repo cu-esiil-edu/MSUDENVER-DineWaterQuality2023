@@ -61,10 +61,16 @@ The level of uranium was found to exceed EPA safe drinking water limits in 27 we
 
 ### Map of Women Ages 15-50
 
-> *Figure 5.3: Location and the percent of the total population of women who are between the ages of 15-50 on the Diné Reservation.*  
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2515to50.jpg?raw=true" alt = "Map of percent of women ages 15-50" width = "60%" height = "60%" >
+
+> *Figure 5.3: Location and the percent of the total population of women who are between the ages of 15 and 50 on the Diné Reservation.*  
 
 
 ### How did we map that?
 
-After finding the women ages 15-50 out of the total population, we used the following code to create a choropleth map showing population percentages. To view more code, click on the image.
+After finding the women ages 15-50 out of the total population, we used the following code to create a choropleth map showing population percentages. 
+
+![code for 15-50](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Sample%2515to50.jpg?raw=true "sample code for map") 
+
+
 
