@@ -92,8 +92,13 @@ Antimony was found in the well water on the Diné Reservation. It has been shown
 
 ### Map of Percent of Population Under 18
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%25under18.jpg?raw=true" alt="Map of Percent of Population Under 18" width = "60%" height = "60%">
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%25under18.jpg?raw=true" alt="Map of Percent of Population Under 18" width = "50%" height = "50%">
 
-> *Figure 5.4: In python with folium maps there is an option to create popups.  In the code, the mouse can roll over each attribute, in this case the block groups, and get a bubble that shows information.  In our code (bottom right) we specify that we want "% under 18" to show in the popup.*  
+> *Figure 5.4: In python with folium maps there is an option to create popups.  In the code, the mouse can roll over each attribute, in this case the block groups, and get a bubble that shows information.  In our code (bottom right) we specify that we want "% under 18" to show in the popup.*
+
+## Putting it all Together 
+
+To come up with the percent of population that is vulnerable to contaminants, we added all of the vulnerable populations together, above 65, women ages 15 to 50, and under 18, and divided that by total population (see Figure 5.5).  The numbers are high ranging between 57% to 72% of the population being vulnerable in any given place on the Diné Reservation.
+
 
 
