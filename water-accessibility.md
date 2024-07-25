@@ -19,7 +19,7 @@ We wanted to find out where the most sensitive people are located on the Diné R
 
 We chose to look at ages 65 and up because of age-related health factors.  According to the CDC, 
 
-“As people get older, their immune systems do not work as well. Older adults are also more likely to have underlying health conditions. Most deaths from respiratory viruses occur in people older than 65, with risk increasing sharply with advancing age” (Centers for Disease Control and Prevention, 2024).
+> As people get older, their immune systems do not work as well. Older adults are also more likely to have underlying health conditions. Most deaths from respiratory viruses occur in people older than 65, with risk increasing sharply with advancing age (Centers for Disease Control and Prevention, 2024).
 
 This aging population is especially vulnerable to the effects of heavy metals in water because they have likely been drinking the water for decades.  One metal of concern is arsenic. As discovered in our study of water quality, the EPA defines arsenic that is above 10 parts per billion (ppb) as unsafe. Arsenic was found in the amounts of 40 ppb in the surface water after the Gold King Mine Spill in 2015 and again in 2019 when water levels were high.  
 
