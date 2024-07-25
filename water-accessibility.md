@@ -47,13 +47,15 @@ To make this map, we divided the population above 65 years old by the total popu
 
 ### Women Ages 15-50
 
-Another vulnerable group we included in our study was fertility in women, which the US Census defines as women between the ages 15-50 years old (Figure 5.3).  In other words, this is the age span when women could become pregnant.  Especially at risk is the developing zygote, embryo or fetus, depending on stage of development, as contaminants pass from the placenta of the mother and through the umbilical cord to the child.  While developing, the embryo or fetus does not have the liver function to process contaminants as well as children and adults. This makes the unborn child very vulnerable.
+Another vulnerable group we included in our study was fertile women, which the US Census defines as women between the ages 15-50 years old (Figure 5.3).  In other words, this is the age span when women could become pregnant.  Especially at risk is the developing blastocyst, embryo or fetus, depending on stage of development, as contaminants pass from the placenta of the mother, through the umbilical cord, and to the child.  While developing, the embryo or fetus does not have the liver function to process contaminants as well as children and adults. This makes the unborn child very vulnerable.
 
 In our surface water study, we looked at levels of lead and arsenic.  We found that the EPA limit of safety for lead is 15 ppb and in 2019, it spiked to over 500 ppb!  According to the American Academy of Pediatrics, there is no safe level of lead in children (American Academy of Pediatrics, 2024).  “Lead exposure is especially harmful to infants, fetuses, and children due to the developing nature of their brains” (Spicer, 2018).
 
-In 2019, arsenic in surface water spiked to 40 ppb, which is 30 ppb above EPA safe limits. Arsenic is a reproductive toxicant and a teratogen, which means it can cause malformations. This is especially concerning as arsenic is readily transferred across the placenta, and concentrations in cord blood are similar to those in maternal blood.  Additionally, arsenic exposure in pregnant women can lead to miscarriage and infant mortality post birth (Agency for Toxic Substances and Disease Registry, 2023).
+In 2019, arsenic in surface water spiked to 40 ppb, which is 30 ppb above EPA safe limits. Arsenic is a reproductive toxicant and a teratogen, which means it can cause malformations. This is especially concerning as arsenic is readily transferred across the placenta.  Concentrations in cord blood are similar to those in maternal blood.  Additionally, arsenic exposure in pregnant women can lead to miscarriage and infant mortality shortly after birth (Agency for Toxic Substances and Disease Registry, 2023).
 
-Additionally, manganese and uranium are concerns as contaminants to women 15-50.  Nervous system and reproductive effects have been observed in animals after high oral doses of manganese.  After the Gold King Mine Spill, manganese rose to 11,000 ppb in 2015 and 20,000 ppb in 2019 (Figure 4.4).  The EPA safe limit is 50 ppb and manganese has returned to that level.  Uranium continues to be present in women and their infants.  A New Mexico University study found:
+Manganese is dangerous to women 15 to 50.  Nervous system and reproductive effects have been observed in animals after high oral doses of manganese.  After the Gold King Mine Spill, manganese rose to 11,000 ppb in 2015 and 20,000 ppb in 2019 (Figure 4.4).  The EPA safe limit is 50 ppb and manganese has returned to that level.  
+
+Uranium continues to be present in women and their infants.  A New Mexico University study found:
 
 > 26 percent of Navajo women currently have concentrations of uranium in their system that exceed levels found in the highest 5 percent of the U.S. population, and that newborns with equally high concentrations continue to be exposed to uranium during their first year (Calvert, 2021).
 
@@ -82,7 +84,7 @@ Many of the contaminants we studied are of concern in the under 18 group.  Lead 
 >    * Lower IQ
 >    * Delayed or impaired neurological development
 >    * Decreased hearing, speech and language disabilities
->    * Poor attention span, learning disabilities, and anti-social behaviors (Spicer, 2018)
+>    * Poor attention span, learning disabilities, and anti-social behaviors (Spicer, 2018).
 
 Additionally, lead “can often cause problems with bones, replacing calcium,” which is a huge concern for a body experiencing bone growth.  It can cause delayed growth and also remains in the bones, so that the lead continuously causes neurological issues after exposure.  Neurological issues may show up as inattentiveness and disorganization (Agency for Toxic Substances and Disease Registry, 2023).
 
