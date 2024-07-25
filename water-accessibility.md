@@ -6,7 +6,7 @@ nav_order: 5
 
 # Water Accessibility on the Diné Reservation
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/childrenInSand.png?raw=true" alt = "children playing in sand">
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/childrenInSand.png?raw=true" alt = "children playing in sand" width = "60%" height = "60%">
 
 > *Figure 5.1: Children playing in the sand on a construction site during the period of time that uranium mining was ocurring on the Diné Reservation. 
 Credit: rawpixel.com / U.S. National Archives (Source)*
@@ -36,5 +36,6 @@ There are several products of uranium that can enter into groundwater.  One heav
 Radon is another product of uranium.  Houses built on an area with uranium or built with rocks from the uranium mines, can contain high levels of radon as surrounding materials release radon into the air.  Many homes were built with rocks from the mines on the reservation.  Additionally, when uranium is in water, it can release radon into the air.  Dr. Frank Dalichow, the Diné oncologist, remarked ““People don't smoke out here, so where is all this cancer really coming from” (Calvert, 2021)? To some the answer is obvious, breathing in radon is linked to lung cancer in both smokers and non-smokers (Agency for Toxic Substances and Disease Registry, 2023b).  It is coming from the uranium mines.
  .  
 ### Map of Adults 65 and Older
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2565up.jpg?raw=true" alt = "Map of Percent of Population 65 and Up" width ="60%" height ="60%">
 
-![65 and Up](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2565up.jpg?raw=true "Map of Percent of Population 65 and Up")
+// ![65 and Up](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2565up.jpg?raw=true "Map of Percent of Population 65 and Up")
