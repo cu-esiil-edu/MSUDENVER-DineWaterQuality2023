@@ -116,4 +116,6 @@ Perhaps a map like this could be used to help make policy decisions on water qua
 
 To map Figure 5.6, we added the well and spring locations code to the vulnerable population map code. Below you can view the code that we added to the vulnerable population map.  
 
+![Vulnerable and risk code](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/vulnerableAndRiskCode.jpg?raw=true "Code combining vulnerable population with EPA Well Risk rating")
+
 
