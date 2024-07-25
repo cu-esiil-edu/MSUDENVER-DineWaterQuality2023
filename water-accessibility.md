@@ -63,7 +63,7 @@ The level of uranium was found to exceed EPA safe drinking water limits in 27 we
 
 ### Map of Women Ages 15-50
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2515to50.jpg?raw=true" alt = "Map of percent of women ages 15-50" width = "60%" height = "60%" >
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2515to50.jpg?raw=true" alt = "Map of percent of women ages 15-50" width = "70%" height = "70%" >
 
 > *Figure 5.3: Location and the percent of the total population of women who are between the ages of 15 and 50 on the Diné Reservation.*  
 
@@ -106,4 +106,14 @@ To come up with the percent of population that is vulnerable to contaminants, we
 
 Next, we wanted to see where the vulnerable populations were in relation to contaminated wells.  We used the EPA risk rating, where each heavy metal is given a level of less, some, and more risk.  We combined the well risk map that we created in our water quality study with the vulnerable population map (Figure 5.6)
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapvulnerableAndRisk.jpg?raw=true" alt="Map of Well and Spring Risk Level with Percent of Population that is vulnerable" width = "60%" height = "60%">
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapvulnerableAndRisk.jpg?raw=true" alt="Map of Well and Spring Risk Level with Percent of Population that is vulnerable" width = "80%" height = "80%">
+
+> *Figure 5.6, we can begin to see areas if high concern: Chinle and Tuba City have wells with an EPA rating of “more risk” with 65-70% of population vulnerability. Sawmill has some risk of well contamination with 67-70% population vulnerability.  There are areas of high well contamination where there is a less vulnerable population, such as near Cameron.*
+
+Perhaps a map like this could be used to help make policy decisions on water quality and accessibility.  For example, it could be used to argue the need to clean up mines and build water treatment plants in certain areas.  While all areas deserve remediation, it could help to create a ranking of priority and build a timeline for the order in which communities would be cleaned up.  This type of analysis is useful and could potentially help with defining needs and creating management plans in Diné communities.
+
+### How did we map that?
+
+To map Figure 5.6, we added the well and spring locations code to the vulnerable population map code. Below you can view the code that we added to the vulnerable population map.  
+
+
