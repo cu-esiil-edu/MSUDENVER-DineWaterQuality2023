@@ -102,3 +102,8 @@ To come up with the percent of population that is vulnerable to contaminants, we
 
 <img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%25VulnerablePop.jpg?raw=true" alt="Map showing percent Vulnerable Population" width = "60%" height = "60%">
 
+> *Figure 5.5: Map of the percent of the population that is vulnerable on the Diné Reservation.*
+
+Next, we wanted to see where the vulnerable populations were in relation to contaminated wells.  We used the EPA risk rating, where each heavy metal is given a level of less, some, and more risk.  We combined the well risk map that we created in our water quality study with the vulnerable population map (Figure 5.6)
+
+
