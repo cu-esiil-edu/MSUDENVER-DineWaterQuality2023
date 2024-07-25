@@ -100,7 +100,7 @@ Antimony was found in the well water on the Diné Reservation. It has been shown
 
 To come up with the percent of population that is vulnerable to contaminants, we added all of the vulnerable populations together, above 65, women ages 15 to 50, and under 18, and divided that by total population (see Figure 5.5).  The numbers are high ranging between 57% to 72% of the population being vulnerable in any given place on the Diné Reservation.
 
-<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%25VulnerablePop.jpg?raw=true" alt="Map showing percent Vulnerable Population" width = "60%" height = "60%">
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%25VulnerablePop.jpg?raw=true" alt="Map showing percent Vulnerable Population" width = "70%" height = "70%">
 
 > *Figure 5.5: Map of the percent of the population that is vulnerable on the Diné Reservation.*
 
