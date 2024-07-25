@@ -38,4 +38,6 @@ Radon is another product of uranium.  Houses built on an area with uranium or bu
 ### Map of Adults 65 and Older
 <img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2565up.jpg?raw=true" alt = "Map of Percent of Population 65 and Up" width ="60%" height ="60%">
 
-// ![65 and Up](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Map%2565up.jpg?raw=true "Map of Percent of Population 65 and Up")
+> *Figure 5.2 Percent and location of the total population who are 65 and older on the Diné Reservation.*
+
+![65Up](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/65upcode5-%25.jpg?raw=true "65 and up sample code")
