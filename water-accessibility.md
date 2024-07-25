@@ -106,4 +106,4 @@ To come up with the percent of population that is vulnerable to contaminants, we
 
 Next, we wanted to see where the vulnerable populations were in relation to contaminated wells.  We used the EPA risk rating, where each heavy metal is given a level of less, some, and more risk.  We combined the well risk map that we created in our water quality study with the vulnerable population map (Figure 5.6)
 
-
+<img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MapvulnerableAndRisk.jpg?raw=true" alt="Map of Well and Spring Risk Level with Percent of Population that is vulnerable" width = "60%" height = "60%">
