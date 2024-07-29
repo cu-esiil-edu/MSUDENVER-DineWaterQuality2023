@@ -187,6 +187,9 @@ Not all samples were above acceptable limits.  The table below shows the percent
 
 > *Table 2*
 
+### Surface Water Quality Results
+We found that after the Gold King Mine Spill, there was a rise in the heavy metals Arsenic, Lead, Aluminum, Iron, and Manganese.  Figures 4.2 and 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed that there was a high stream flow in 2019 that likely caused the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
+
 ## Well and Spring Water Quality
 
 In addition to checking for surface water quality, we checked for well and spring water quality.  Well and spring water is an important source of drinking water on the Dine Reservation.  On the EPA website, we found water sampling data for a variety of wells on the reservation.  This site showed an EPA risk rating and exceedance values of heavy metals, including aluminum (Al), thorium (Th), antimony (Sb), and uranium (U), which we focused on in our analysis.
@@ -242,7 +245,10 @@ To make this map, we called in the Exceedance of Aluminum column from the table.
 ### Well and Spring Sites Results
 
 We found that there is not only a concern of heavy metals in the water from the Gold King Mine spill, but there are likely still heavy metals present from historic uranium mining.
-The last sampling of heavy metals was in 1986. More data needs to be collected to calculate if these heavy metals still exist today and whether they have increased or decreased.
-An increase could indicate that pollution reached the groundwater from the Gold King Mine Spill.
+The last sampling of heavy metals was in 2000. More data needs to be collected to calculate if these heavy metals still exist today and whether they have increased or decreased.
+An increase could indicate that pollution reached the groundwater from the Gold King Mine Spill.  
+
+Next, we wondered how the heavy metals could have impacted the community and their health.  Our findings can be viewed on the [water accessibility] page(https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/f58302dcef71419b50e31b1ac9b6a818f660cdac/water-accessibility.md).
+
 
 
