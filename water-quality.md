@@ -16,7 +16,7 @@ The level of heavy metals in water can have many environmental and health implic
 
 We wanted to find out if there were heavy metals in the water on the Dine Reservation and if those heavy metals were there because of the Gold King Mine Spill. 
 We started by examining surface water. To examine the water quality before and after the Gold King Mine spill, we chose to look at the heavy metal contaminants, 
-Arsenic, Lead, Aluminum, Iron, and Manganese. Arsenic and Lead are primary pollutants and the others are secondary. 
+arsenic, lead, aluminum, iron, and manganese. Arsenic and lead are primary pollutants and the others are secondary. 
 Primary pollutants take a lot less of the pollutant to be dangerous to health than secondary pollutants.  
   
 
@@ -83,7 +83,7 @@ From there, you can fork the code to reproduce your own project.
 
 ### Heavy Metal Results Graphs
 
-We chose to look at the monthly maximum readings of each heavy metal as we would not want to drink water where the maximum exceeded the EPA limit.
+We chose to look at the monthly maximum readings of each heavy metal as it is not safe to drink water where the maximum exceeded the EPA limit.
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true" alt = "Arsenic Graph" width="95%" height="95%">
 
@@ -190,7 +190,7 @@ Not all samples were above acceptable limits.  The table below shows the percent
 > *Table 4.2*
 
 ### Surface Water Quality Results
-In our findings, after the Gold King Mine Spill, there was a rise in the heavy metals Arsenic, Lead, Aluminum, Iron, and Manganese.  Figures 4.2 - 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed there was a high stream flow in 2019, likely causing the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
+In our findings, after the Gold King Mine Spill, there was a rise in the heavy metals arsenic, lead, aluminum, iron, and manganese.  Figures 4.2 - 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed there was a high stream flow in 2019, likely causing the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
 
 ## Well and Spring Water Quality
 
