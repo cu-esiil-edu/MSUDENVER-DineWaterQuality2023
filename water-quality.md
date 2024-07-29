@@ -6,9 +6,11 @@ nav_order: 4
 
 # Water Quality on the Diné Reservation
 
-There are many benchmark indicators of water, such as the amount of turbidity and pH that determine whether water is healthy. 
-In naturally occurring ecosystems, untouched by human activity, the presence of the indicator, heavy metals, is usually low.  
-There can be naturally occurring heavy metals in water, however.  The level of heavy metals can have many environmental and health implications.
+There are many benchmark indicators of water, such as the amount of turbidity and pH that determine whether water is healthy. Heavy metal is one such indicator.
+In naturally occurring ecosystems, untouched by human activity, the presence of heavy metals in water is usually low.
+
+Often times heavy metals rise due to human activity such as mining and extraction of natural resources. Disturbance to rock can loosen heavy metals that eventually reach water sources. 
+The level of heavy metals in water can have many environmental and health implications.
 
 ## Surface Water Quality
 
