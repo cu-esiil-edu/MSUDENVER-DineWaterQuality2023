@@ -250,7 +250,7 @@ We found that there is not only a concern of heavy metals in the water from the 
 The last sampling of heavy metals was in 2000. More data needs to be collected to calculate if these heavy metals still exist today and whether they have increased or decreased.
 An increase could indicate that pollution reached the groundwater from the Gold King Mine Spill.  
 
-Next, we wondered how the heavy metals could have impacted the community and their health.  Our findings can be viewed in the section, [Water Accessibility](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/f58302dcef71419b50e31b1ac9b6a818f660cdac/water-accessibility.md).
+Next, we wondered how the heavy metals could have impacted the community and their health.  Our findings can be viewed in the section, [Water Accessibility](https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/water-accessibility.html).
 
 
 
