@@ -57,7 +57,7 @@ Primary pollutants take a lot less of the pollutant to be dangerous to health th
   </tr>
 </table>
 
-> *Table 1*
+> *Table 4.1*
 
 Furthermore, we wanted to find out if the heavy metals made the water unsafe to drink.  
 The EPA sets limits for the amount of contaminant present for drinking water to be safe.  
@@ -69,7 +69,7 @@ There are many EPA water testing sites on the Dine Reservation.  We analyzed dat
 
 ![Surface Water Sampling Sites](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterSamplingMap3.jpg?raw=true "surface water sampling sites")
 
-> *Figure 1*
+> *Figure 4.1*
 
 ### How did we map that?
 Below is a sample of code from this map.
@@ -83,22 +83,22 @@ From there, you can fork the code to reproduce your own project.
 
 We chose to look at the monthly maximum readings of each heavy metal as we would not want to drink water where the maximum exceeded the EPA limit.
 
-<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true" alt = "Arsenic Graph" width="90%" height="90%">
+<img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true" alt = "Arsenic Graph" width="95%" height="95%">
 
-> *Figure 2: Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill. 
+> *Figure 4.2: Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill. 
 Secondary spikes occurred after the spill, with the largest spikes in 2019.*
 
 
 
 ![Lead and Al](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/LeadAluminumGraph.jpg?raw=true "Lead and Aluminum Graphs")
 
-> *Figure 3: Both lead and aluminum were not present before the Gold King Mine Spill, but were present afterward, with a secondary spike in 2019.*
+> *Figure 4.3: Both lead and aluminum were not present before the Gold King Mine Spill, but were present afterward, with a secondary spike in 2019.*
 
 
 
 ![Iron and Manganese](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/IronManganeseGraph.jpg?raw=true "Iron and Manganese" )
 
-> *Figure 4: The EPA began monitoring for iron and manganese a few days after the Gold King Mine Spill, so levels beforehand are unknown.
+> *Figure 4.4: The EPA began monitoring for iron and manganese a few days after the Gold King Mine Spill, so levels beforehand are unknown.
 > There were secondary spikes, the largest in 2019.*
 
 
@@ -121,13 +121,13 @@ The stream flow in the graph below, shows that there was a high discharge of wat
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/MonthlyMaxDischarge.jpg?raw=true" alt =
 "Max Monthly Discharge for Dine Reservation 2005-2022"  width="70%" height="70%">
 
-> *Figure 5: High peak in stream flow in 2019 on the San Juan River.*
+> *Figure 4.5: High peak in stream flow in 2019 on the San Juan River.*
 
 In our second analysis, we found that there was a 75-year flooding event and a high peak in stream flow in 2019.  The event likely caused the heavy metals that had settled into the sediment to loosen and reappear in the water. 
 
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ReturnPeriodMonthlyFlow.jpg?raw=true" alt ="Return Period of Peak Flows" width="70%" height="70%">
 
-> *Figure 6: This graph shows the return period for flow events on the y-axis.  The return period is how often a flow at that level occurs.
+> *Figure 4.6: This graph shows the return period for flow events on the y-axis.  The return period is how often a flow at that level occurs.
 > In 2019 there was a 75-year flooding event.*
 
 
@@ -185,10 +185,10 @@ Not all samples were above acceptable limits.  The table below shows the percent
   </tr>
 </table>
 
-> *Table 2*
+> *Table 4.2*
 
 ### Surface Water Quality Results
-We found that after the Gold King Mine Spill, there was a rise in the heavy metals Arsenic, Lead, Aluminum, Iron, and Manganese.  Figures 4.2 and 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed that there was a high stream flow in 2019 that likely caused the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
+In our findings, after the Gold King Mine Spill, there was a rise in the heavy metals Arsenic, Lead, Aluminum, Iron, and Manganese.  Figures 4.2 - 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed there was a high stream flow in 2019, likely causing the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
 
 ## Well and Spring Water Quality
 
@@ -196,13 +196,13 @@ In addition to checking for surface water quality, we checked for well and sprin
 
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/EPAWaterSamples2.jpg?raw=true" alt="EPA Table of Water Samples">
 
-> *Figure 7: EPA table, in csv format, of water sampling on the Diné Reservation.* 
+> *Figure 4.7: EPA table, in csv format, of water sampling on the Diné Reservation.* 
 
 First we made a map of the EPA’s testing sites. There are a total of 225 testing sites, the  map showing the location of heavy metals we analyzed.
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/WellandSpringMap.jpg?raw=true" alt="Wells and Springs on the Reservation" width="60%" height="60%">
 
-> *Figure 8: Locations of wells and springs tested by the EPA that contain Al, Th, Sb, and U.*
+> *Figure 4.8: Locations of wells and springs tested by the EPA that contain Al, Th, Sb, and U.*
 
 
 ### How did we code that?
@@ -222,7 +222,7 @@ The data was collected between 1998-2000, before the Gold-King Mine spill. The p
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/AIExceedance2.jpg?raw=true" alt="Map of Wells with Exceedance of aluminum" width="60%" height="60%">
 
-> *Figure 9: The red dots on the map show the location of 17 sites with aluminum values that exceed safe drinking water limits.*
+> *Figure 4.9: The red dots on the map show the location of 17 sites with aluminum values that exceed safe drinking water limits.*
 
 ### How did we code that?
 
@@ -231,15 +231,15 @@ To make this map, we called in the Exceedance of Aluminum column from the table.
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ThExceedance2.jpg?raw=true" alt="Map of Wells with Exceedance of thorium" width="60%" height="60%">
 
-> *Figure 10: The red dots on the map show the location of 22 sites with thorium values that exceed safe drinking water limits.*
+> *Figure 4.10: The red dots on the map show the location of 22 sites with thorium values that exceed safe drinking water limits.*
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/UExceedance.jpg?raw=true" alt="Map of Wells with Exceedance of uranium" width="60%" height="60%">
 
-> *Figure 11: This map shows the location of 27 sites with uranium values that exceed safe drinking water limits.*
+> *Figure 4.11: This map shows the location of 27 sites with uranium values that exceed safe drinking water limits.*
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SbExceedence.jpg?raw=true" alt="Map of Wells with Exceedance of antimony" width="60%" height="60%">
 
-> *Figure 12: This map shows the location of 3 sites with antimony values that exceed safe drinking water limits.*
+> *Figure 4.12: This map shows the location of 3 sites with antimony values that exceed safe drinking water limits.*
 
 
 ### Well and Spring Sites Results
