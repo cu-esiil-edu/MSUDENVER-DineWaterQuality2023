@@ -62,5 +62,5 @@ In python, we did an ANOVA test that found these changes were not statistically 
 ## Results
 
 While the water levels did not change significantly, we don’t know whether wells contain contaminants from the Gold King Mine Spill.  More needs to be learned about the 
-[water quality](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/2a252f78a491ddc01372c4dd522833f838bd241b/water-quality.md) 
+[water quality](https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/water-quality.html) 
 of the wells and springs on the Diné Reservation before, during, and after the spill.
