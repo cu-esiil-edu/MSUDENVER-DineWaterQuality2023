@@ -1,5 +1,11 @@
 ## Homepage
 
-### Welcome to the Metropolitan State University of Denver's ESIIL Stars 2023 Project Page!
+Welcome to the Metropolitan State University of Denver's ESIIL Stars 2023 Project Page!
 
-Use the navigation bars on the left to explore our project.
+Our Research question is: 
+
+> **What is the groundwater quantity, quality, and accessibility on the Diné Reservation?**
+
+In particular, we want to examine possible consequences from the 2015 Gold King Mine spill and 80 years of Uranium Mining in the region.
+
+**Use the navigation bars on the left to explore our project.**
