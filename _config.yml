@@ -14,6 +14,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 aux_links:
   "About":
     - "https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/About"
+  "Presentation":  
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
