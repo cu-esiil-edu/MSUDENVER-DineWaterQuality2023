@@ -4,6 +4,11 @@ title: Background
 nav_order: 1
 ---
 
+# Research Question
+
+What is the groundwater quantity, quality, and accessibility on the Diné Reservation?
+
+In particular, we want to examine possible consequences from the 2015 Gold King Mine spill and 80 years of Uranium Mining in the region.
 
 <img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Pottery2.jpg?raw=true" alt = "SW Pottery" >
 
