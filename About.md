@@ -1,5 +1,11 @@
 # About 
 
+## ESIIL Stars
+
+*"Building capacity with diverse students and faculty to teach and learn technical environmental data skills within diverse populations"*
+
+The ESIIL Stars Program, funded by NSF, is an annual program that builds environmental data science skills and trains the next generation of data-capable workers. Students from diverse backgrounds at schools serving communities that are historically underrepresented in STEM are invited to join this 5-month program. This is a website about the project by the 2023 Metropolitan State University of Denver student interns. For more information visit the [ESIIL Stars webpage](https://esiil.org/esiil-stars).
+
 ### Interns 
 
 Scott Sheldon
