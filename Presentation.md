@@ -1,4 +1,4 @@
 # Presentation
-On August 4, the 2023 ESIIL Stars season culuminated in a presentation of the project.
+On August 4, the 2023 ESIIL Stars season culminated with a presentation of the project.
 To view the presentation on Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation, click here:
-[Presentation by MSU Denver ESIIL Stars Interns 2023](https://www.youtube.com/watch?v=I8ltH6REyzo&t=1486s).
+[![youtubeVideoPresentation](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/videoThumbnail.jpg?raw=true "Link to Presentation MSU 2023")](https://www.youtube.com/watch?v=I8ltH6REyzo&t=1486s) 
