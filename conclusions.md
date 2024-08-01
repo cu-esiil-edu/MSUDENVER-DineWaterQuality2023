@@ -8,7 +8,7 @@ nav_order: 7
 
 After decades of seeking water rights from the Colorado River, Navajo Nation sought the help of the United States in the Supreme Court case, Arizona v. Navajo Nation. In June 2023, the US Supreme Court denied their request for the “United States to assess what water rights it holds in trust on the Tribe’s behalf pursuant to the Treaty of 1868” (Kavanaugh, & Gorsuch, 2023, p.11).  The Supreme Court asserted that the Diné people could rely on streams and groundwater on the reservation to fulfill their needs.  
 
-Furthermore, Uranium mining occurred all over the nation from 1948-2005.  In 2015, the Gold King Mine Spill leached into the San Juan watershed, much of which is located on the Diné tribal lands.These events led us to wonder, is there water of sufficient quantity, quality, and accessibility to provide for the Diné?
+Furthermore, Uranium mining occurred all over the nation from 1948-2005.  In 2015, the Gold King Mine Spill leached into the San Juan watershed, much of which is located on the Diné tribal lands. These events led us to wonder, is there water of sufficient quantity, quality, and accessibility to provide for the Diné?
 
 In our surface water analysis of data from the EPA, we found many samples containing 1 or more contaminants exceeding the EPA’s safety limits.  During the high flow of 2019, that level increased significantly during a 75 year flood event.  As of 2022, the level for most heavy metals we observed had returned to acceptable limits.  The exception was arsenic, which has continued to spike.  In 2021, it spiked for unknown reasons.
 
