@@ -26,24 +26,24 @@ We chose to analyze 5 USGS wells that are continuously monitored shown in Figure
 
 Next, we analyzed the water depth at the USGS locations using graphs created through Python coding.  Water depth is the land surface to the surface of the water.  
 
-Two well sites had fairly consistent depths annually between 2006-2022 (Figures 1 and 2).
+Two well sites had fairly consistent depths annually between 2006-2022 (Figures 3.2 and 3.3).
 
 ![Map of Well 1](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell1.png?raw=true)
 ![Map of Well 4](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell4.png?raw=true)
 
-> *Figures 1 and 2: Water levels stayed about the same.*
+> *Figures 3.2 and 3.3: Water levels stayed about the same.*
 
-Three sites showed year-to-year changes in the depth of the wells.  Figure 3 shows that the aquifer is being recharged with the well depth decreasing and the water level rising.
-This well might not be in use. Figures 4 and 5 are likely being used as the well depth is increasing and the water level is decreasing.
+Three sites showed year-to-year changes in the depth of the wells.  Figure 3.4 shows that the aquifer is being recharged with the well depth decreasing and the water level rising.
+This well might not be in use. Figures 3.5 and 3.6 are likely being used as the well depth is increasing and the water level is decreasing.
 
 ![Map of Well 3](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell3.jpg?raw=true)
 
-> *Figure 3: Aquifer was recharged with the well depth decreasing and the water level rising.*
+> *Figure 3.4: Aquifer was recharged with the well depth decreasing and the water level rising.*
 
 ![Map of Well 2](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell2.jpg?raw=true)
 ![Map of Well 5](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/DepthWell5.jpg?raw=true)
 
-> *Figures 4 and 5: These wells were likely in use as the well depth was increasing and the water level was decreasing.*
+> *Figures 3.5 and 3.6: These wells were likely in use as the well depth was increasing and the water level was decreasing.*
 
  
 ### How did we graph that?
