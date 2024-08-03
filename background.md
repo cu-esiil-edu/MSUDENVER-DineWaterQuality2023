@@ -8,13 +8,13 @@ nav_order: 1
 
 What is the groundwater quantity, quality, and accessibility on the Diné Reservation?
 
-In particular, we want to examine possible consequences from the 2015 Gold King Mine spill and 80 years of Uranium Mining in the region.
+In particular, we want to examine possible consequences from the 2015 Gold King Mine spill and 80 years of uranium mining in the region.
 
 <img src = "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/Pottery2.jpg?raw=true" alt = "SW Pottery" >
 
 # Background
 
-The Diné (Navajo) people have lived in the southwestern United States for at least 1,100 years.  Before the west was invaded by European groups - the Spanish then Americans - the Diné boundaries stretched into the San Luis Valley of Colorado, south to Albuquerque, west to Flagstaff and north into southeastern Utah.  After their defeat by Christopher “Kit” Carson’s armies, the Diné endured the long walk into a smaller territory where their tribal lands were reduced by more than half.  The present day reservation resides at the four corners, with most of the boundary in Northeastern Arizona.  Since their time on the reservation, the Diné people experienced uranium mining and the Gold King Mine Spill with devastating consequences.  Therein lies a resilient nation with a land that still needs remediation and a people who are still healing.
+The Diné (Navajo) people have lived in the southwestern United States for at least 1,100 years.  Before the west was invaded by European groups - the Spanish followed by the Americans - the Diné boundaries stretched into the San Luis Valley of Colorado, south to Albuquerque, west to Flagstaff and north into southeastern Utah.  After their defeat by Christopher “Kit” Carson’s armies, the Diné endured the long walk to Bosque Redondo. During the 400 mile walk, 2,000 died. Their tribal lands were reduced tremendously and were unsuitable for human occupancy.  In 1868, the Diné were allowed to return to a part of their original homeland.  The present day reservation resides at the four corners, with most of the boundary in Northeastern Arizona.  Since their time on the reservation, the Diné people experienced uranium mining and the Gold King Mine Spill with devastating consequences.  Therein lies a resilient nation with a land that still needs remediation and a people who are still healing.
 
 
 ## Timeline
@@ -31,7 +31,7 @@ The Diné (Navajo) people have lived in the southwestern United States for at le
 * **1878-1887 - Executive Order Lands and Dawe’s Act**
     * Presidential EO’s increased the reserved lands for the Diné without imposing additional restrictions.
 * **1944-1986 - Uranium Mining on Diné Land**
-    * 4 million tons extracted. The contamination spread into homes because materials from mines were used to build homes. Over 500 Abandoned on the reservation today. Caused a multitude of health issues that carried on for generations.
+    * 4 million tons extracted. The contamination spread into homes because materials from mines were used to build homes. Over 500 Abandoned mines are on the reservation today. The mines, both active and abandoned, caused a multitude of health issues that carried on for generations.
 * **2015-Gold King Mine Spill**
     * Large quantities of lead, arsenic, cadmium, and other metals were released into the river via acid mine drainage, causing newly planted crops on the reservation to go without irrigation as the headgates for the San Juan River remained closed.
 
@@ -42,7 +42,7 @@ The Diné (Navajo) people have lived in the southwestern United States for at le
 
 > *The Animas River near Durango, CO shortly after the spill (Wikimedia Foundation, 2024a).*
 
-In August 5, 2015, near Silverton, CO, a plug broke at the Gold King Mine and acidic water burst out.  The plug was holding back pressurized acidic mine water that had collected behind it. It had been installed along with several other plugs to stop mine pollution from reaching the Animas River.  However, during work by the EPA to build pipes and a pond to release and retain the water, the pressurized plug could no longer hold.  A torrent of water rushed into the Animas River. Soon it joined with the San Juan River and spread like arteries on the land throughout the San Juan watershed (Figure 1.1). It appeared like a scene in Willy Wonka as a butterscotch milkshake rushing through the town of Durango and eventually into Shiprock, a community in Navajo Nation.  But, unlike a milkshake, its contents could harm aquatic life, people, livestock and plants.  “On August 8, Colorado Governor John Hickenlooper declared a disaster as did Navajo President Russell Begaye” (Wikimedia Foundation, 2024a).  Officials warned against drinking the water and farmers and ranchers stopped using it.  People were urged to test their water.
+In August 5, 2015, near Silverton, CO, a plug broke at the Gold King Mine and acidic water burst out.  The plug was holding back pressurized acidic mine water that had collected behind it. It had been installed along with several other plugs to stop mine pollution from reaching the Animas River.  However, during work by the EPA to build pipes and a pond to release and retain the water, the pressurized plug could no longer hold.  A torrent of water rushed into the Animas River. Soon it joined with the San Juan River and spread throughout the San Juan watershed (Figure 1.1). It appeared like a scene in Willy Wonka as a butterscotch milkshake rushing through the town of Durango and eventually into Shiprock, a community in Navajo Nation.  But, unlike a milkshake, its contents could harm aquatic life, people, livestock and plants.  “On August 8, Colorado Governor John Hickenlooper declared a disaster as did Navajo President Russell Begaye” (Wikimedia Foundation, 2024a).  As headgates of the San Juan River were closed, officials warned against drinking the water and farmers and ranchers stopped using it.  People were urged to test their water.
 
 The Gold King Mine was in operation from approximately 1893 - 1923.  Many other mines have been in operation around it. All of these mines produce acidic mine tailings that have to be managed to prevent damage to aquatic ecosystems (Wikimedia Foundation, 2024a).  
 
