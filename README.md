@@ -6,6 +6,6 @@ Our Research question is:
 
 > **What is the groundwater quantity, quality, and accessibility on the Diné Reservation?**
 
-In particular, we want to examine possible consequences from the 2015 Gold King Mine spill and 80 years of Uranium Mining in the region.
+In particular, we want to examine possible consequences from the 2015 Gold King Mine spill and 80 years of uranium mining in the region.
 
-**Use the navigation bars on the left to explore our project.**
+**Use the navigation bars to explore our project.**
