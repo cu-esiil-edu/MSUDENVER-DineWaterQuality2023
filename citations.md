@@ -60,7 +60,7 @@ Rodriguez-Freire, L., Avasarala, S., Ali, A.-M. S., Agnew, D., Hoover, J. H., Ar
 
 Smith, A. V., Farooq, U., & Olalde, M. (2023, June 26). *Supreme Court keeps Navajo Nation waiting for water*. ProPublica. https://www.propublica.org/article/supreme-court-navajo-nation-water-rights-scotus
 
-Spicer, Wendy. “Lead Contamination in Drinking Water: What You Need to Know.” *Lead Contamination in Drinking Water | Lead in Water Information,* 17 Oct. 2018, www.hydroviv.com/blogs/water-smarts/lead-in-drinking-water
+Spicer, Wendy. “Lead Contamination in Drinking Water: What You Need to Know.” *Lead in Water Information,* 17 Oct. 2018, www.hydroviv.com/blogs/water-smarts/lead-in-drinking-water
 
 State of Utah. (2023, December 21). *Gold King Mine 2015 Release*. Utah Department of Environmental Quality. https://deq.utah.gov/general/gold-king-mine-2015-release
 
@@ -79,7 +79,7 @@ Regulations*. EPA. https://www.epa.gov/ground-water-and-drinking-water/national-
 
 USEPA Region 9. (2018, April). *Abandoned uranium mine settlements on the Navajo Nation. United States Environmental Protection Agency.* https://www.epa.gov/sites/default/files/2018-05/documents/navajo_nation_settlement_fact_sheet-2018-04-18.pdf
 
-USEPA. (2021, January). *TEN-YEAR PLAN: Federal Actions to Address Impacts of Uranium Contamination on the Navajo Nation 2020-2029*. U.S. Environmental Protection Agency | US EPA. https://www.epa.gov/sites/default/files/2021-02/documents/nnaum-ten-year-plan-2021-01.pdf
+USEPA. (2021, January). *TEN-YEAR PLAN: Federal Actions to Address Impacts of Uranium Contamination on the Navajo Nation 2020-2029*. U.S. Environmental Protection Agency. https://www.epa.gov/sites/default/files/2021-02/documents/nnaum-ten-year-plan-2021-01.pdf
 
 USEPA. (2022, July). *Annual progress update: Federal actions to address uranium contamination on Navajo Nation.* https://www.epa.gov/system/files/documents/2022-11/ten-year-plan-annual-progress-update-nnaum-2022-07.pdf 
 
