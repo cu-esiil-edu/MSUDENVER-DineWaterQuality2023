@@ -59,7 +59,7 @@ Primary pollutants take a lot less of the pollutant to be dangerous to health th
   </tr>
 </table>
 
-> *Table 4.1: Contaminants and the Recommended EPA Safety Limit for Safe Drinking*
+> *Table 4.1: Contaminants and the Recommended EPA Limit for Safe Drinking*
 
 Furthermore, we wanted to find out if the heavy metals made the water unsafe to drink.  
 The EPA sets limits for the amount of contaminant present for drinking water to be safe.  
@@ -83,11 +83,11 @@ From there, you can fork the code to reproduce your own project.
 
 ### Heavy Metal Results Graphs
 
-We chose to look at the monthly maximum readings of each heavy metal as it is not safe to drink water where the maximum exceeded the EPA limit.
+We chose to look at the monthly maximum readings of each heavy metal where the maximum exceeded the EPA limit.
 
 <img src= "https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/ArsenicGraph2.jpg?raw=true" alt = "Arsenic Graph" width="95%" height="95%">
 
-> *Figure 4.2: Arsenic spikes before the Gold King Mine Spill in 2012 and after the Gold King Mine Spill. 
+> *Figure 4.2: Arsenic spikes before the Gold King Mine Spill in 2012 and immediately after the Gold King Mine Spill. 
 Secondary spikes occurred after the spill, with the largest spikes in 2019.*
 
 
