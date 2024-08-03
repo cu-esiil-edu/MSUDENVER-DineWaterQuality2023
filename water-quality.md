@@ -187,7 +187,7 @@ Not all samples were above acceptable limits.  The table below shows the percent
   </tr>
 </table>
 
-> *Table 4.2*
+> *Table 4.2: Percent of surface water testing sites with contaminants above EPA acceptable limits for safe drinking water.*
 
 ### Surface Water Quality Results
 In our findings, after the Gold King Mine Spill, there was a rise in the heavy metals arsenic, lead, aluminum, iron, and manganese.  Figures 4.2 - 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed there was a high stream flow in 2019, likely causing the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
