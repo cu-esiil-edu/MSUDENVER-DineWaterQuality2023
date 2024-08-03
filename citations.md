@@ -29,6 +29,8 @@ Environmental Protection Agency. (n.d.). EPA. https://www.epa.gov/privatewells/p
            
 Hoover, J., Gonzales, M., Shuey, C., Barney, Y., & Lewis, J. (2017). Elevated Arsenic and Uranium Concentrations in Unregulated Water Sources on the Navajo Nation, USA. *Exposure and Health*, 9(2), 113–124. https://doi.org/10.1007/s12403-016-0226-6
 
+Howe, L. (2014). *History.* Navajo Reservation. http://lchowenavajoreservation.weebly.com/history.html 
+
 Hudson, M., Carroll, S. R., Anderson, J., Blackwater, D., Cordova-Marks, F. M., Cummins, J., David-Chavez, D., Fernandez, A., Garba, I., Hiraldo, D., Jäger, M. B., Jennings, L. L., Martinez, A., Sterling, R., Walker, J. D., & Rowe, R. K. (2023). Indigenous Peoples’ Rights in Data: A Contribution Toward Indigenous Research Sovereignty. *Frontiers in Research Metrics and Analytics, 8*. https://doi.org/10.3389/frma.2023.1173805
 
 Indian Country Grassroots Support. (2019, October 8). *Act of June 18, 1934-Indian Reorganization Act.* Diné Nihi Kéyah Project. https://www.govinfo.gov/content/pkg/COMPS-5299/pdf/COMPS-5299.pdf
