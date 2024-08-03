@@ -133,7 +133,7 @@ In our second analysis, we found that there was a 75-year flooding event and a h
 > In 2019 there was a 75-year flooding event.*
 
 
-Not all samples were above acceptable limits.  The table below shows the percent of samples above EPA acceptable limits.  Sometimes levels didn’t have concerning levels of a particular heavy metal.  However, just the possibility, made it a health risk to drink water at that time. Looking at this table, one could surmise a 2 in 10 chance that their glass of water could have concerning levels of arsenic and lead between 2012-2022 (see previous graphs).  Likewise, a glass of water had a 9 in 10 chance of containing concerning levels of aluminum, iron, and manganese.
+Not all samples were above acceptable limits.  Table 4.2 shows the percent of samples above EPA acceptable limits.  Sometimes levels didn’t have concerning levels of a particular heavy metal.  However, just the possibility, made it a health risk to drink water at that time. Looking at this table, one could surmise a 2 in 10 chance that their glass of water could have concerning levels of arsenic and lead between 2012-2022 (see previous graphs).  Likewise, a glass of water had a 9 in 10 chance of containing concerning levels of aluminum, iron, and manganese.
 
 
 <table>
