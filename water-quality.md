@@ -67,11 +67,11 @@ For each metal, we compared the presence of heavy metals to the EPA limit.
 
 ### Surface Water Testing Sites Map
 
-There are many EPA water testing sites on the Dine Reservation.  We analyzed data collected at these sites, mapped here:
+There are many EPA water testing sites on the Diné Reservation.  We analyzed data collected at these sites, mapped here:
 
 ![Surface Water Sampling Sites](https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/SurfaceWaterSamplingMap3.jpg?raw=true "surface water sampling sites")
 
-> *Figure 4.1*
+> *Figure 4.1: Map showing where surface water was tested on the Diné Reservation.*
 
 ### How did we map that?
 Below is a sample of code from this map.
