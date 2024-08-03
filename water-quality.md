@@ -14,10 +14,10 @@ The level of heavy metals in water can have many environmental and health implic
 
 ## Surface Water Quality
 
-We wanted to find out if there were heavy metals in the water on the Dine Reservation and if those heavy metals were there because of the Gold King Mine Spill. 
+We wanted to find out if there were heavy metals in the water on the Diné Reservation and if those heavy metals were there because of the Gold King Mine Spill. 
 We started by examining surface water. To examine the water quality before and after the Gold King Mine spill, we chose to look at the heavy metal contaminants, 
 arsenic, lead, aluminum, iron, and manganese. Arsenic and lead are primary pollutants and the others are secondary. 
-Primary pollutants take a lot less of the pollutant to be dangerous to health than secondary pollutants.  
+Primary pollutants take a lot less of the pollutant to be dangerous to health than secondary pollutants (*Table 4.1*).  
   
 
 <table>
@@ -59,7 +59,7 @@ Primary pollutants take a lot less of the pollutant to be dangerous to health th
   </tr>
 </table>
 
-> *Table 4.1*
+> *Table 4.1: Contaminants and the Recommended EPA Safety Limit for Safe Drinking*
 
 Furthermore, we wanted to find out if the heavy metals made the water unsafe to drink.  
 The EPA sets limits for the amount of contaminant present for drinking water to be safe.  
