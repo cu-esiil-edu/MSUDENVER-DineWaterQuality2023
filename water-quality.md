@@ -190,11 +190,11 @@ Not all samples were above acceptable limits.  Table 4.2 shows the percent of sa
 > *Table 4.2: Percent of surface water testing sites with contaminants above EPA acceptable limits for safe drinking water.*
 
 ### Surface Water Quality Results
-In our findings, after the Gold King Mine Spill, there was a rise in the heavy metals arsenic, lead, aluminum, iron, and manganese.  Figures 4.2 - 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed there was a high stream flow in 2019, likely causing the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016.  
+In our findings, after the Gold King Mine Spill, there was a rise in the heavy metals arsenic, lead, aluminum, iron, and manganese.  Figures 4.2 - 4.4 show the levels rose beyond the EPA limits for safe drinking water. The heavy metals settled and then spiked again in 2019.  Further analysis revealed there was a high stream flow in 2019, likely causing the stream bed to re-invigorate the heavy metals.  This caused secondary spiking to levels much higher than initially in 2015 and 2016. In 2021, Arsenic spiked again to unacceptable limits for unknown reasons (*Figure 4.2*). 
 
 ## Well and Spring Water Quality
 
-In addition to checking for surface water quality, we checked for well and spring water quality.  Well and spring water is an important source of drinking water on the Dine Reservation.  On the EPA website, we found water sampling data for a variety of wells on the reservation.  This site showed an EPA risk rating and exceedance values of heavy metals, including aluminum (Al), thorium (Th), antimony (Sb), and uranium (U), which we focused on in our analysis.
+In addition to checking for surface water quality, we checked for well and spring water quality.  Well and spring water is an important source of drinking water on the Diné Reservation.  On the EPA website, we found water sampling data for a variety of wells on the reservation.  This site showed an EPA risk rating and exceedance values of heavy metals, including aluminum (Al), thorium (Th), antimony (Sb), and uranium (U), which we focused on in our analysis.
 
 <img src="https://github.com/cu-esiil-edu/MSUDenver-DineWaterQuality2023/blob/main/img/EPAWaterSamples2.jpg?raw=true" alt="EPA Table of Water Samples">
 
