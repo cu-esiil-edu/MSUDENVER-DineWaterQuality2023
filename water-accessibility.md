@@ -87,9 +87,11 @@ After finding the women ages 15-50 out of the total population, we used the foll
 
 ### People Under 18
 
-Children and adolescents, under the age of 18, are legally not adults.  Physiologically this is also true as their brains and bodies are not fully developed.  For some, development may continue into the early 20s, but our data was confined by the US Census Bureau’s definition for adult, which is 18 years old.
+Children and adolescents, under the age of 18, are legally not adults.  Physiologically this is also true as their brains and bodies are not fully developed.  For some, development may continue into the early 20s, but our data was confined by the US Census Bureau’s definition for adult, which is 18 years old. Many of the contaminants we studied are of concern in the under 18 group.  
 
-Many of the contaminants we studied are of concern in the under 18 group.  Lead is a well known poison.
+**Lead**
+
+Lead is a well known poison.
 
 > The effects of lead exposure in children include, but are not limited to:
 >    * Lower IQ
@@ -98,6 +100,8 @@ Many of the contaminants we studied are of concern in the under 18 group.  Lead 
 >    * Poor attention span, learning disabilities, and anti-social behaviors (Spicer, 2018).
 
 Additionally, lead “can often cause problems with bones, replacing calcium,” which is a huge concern for a body experiencing bone growth.  It can cause delayed growth and also remains in the bones, so that the lead continuously causes neurological issues after exposure.  Neurological issues may show up as inattentiveness and disorganization (Agency for Toxic Substances and Disease Registry, 2023).
+
+**Antimony**
 
 Antimony was found in the well water on the Diné Reservation. It has been shown to cause development effects in animals that swallow antimony. It can also cause liver damage and low blood sugar (Agency for Toxic Substances and Disease Registry, 2019).  It is safe to assume that it would impact humans similarly.
 
